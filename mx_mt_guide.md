@@ -1,10 +1,3 @@
-Below is a **comprehensive and updated mapping guide** for SWIFT MT messages transitioning to ISO 20022 MX messages, including additional fields requested for **MT103, MT202, and MT210**. Each section contains:
-
-1. **A detailed mapping table** for fields in MT103, MT202, and MT210 with their MX equivalents.  
-2. **An example MT message and its corresponding ISO 20022 MX format**.  
-
----
-
 # **1. MT103 → pacs.008 (Customer Credit Transfer) Mapping**
 
 ## **1.1 Mapping Table: MT103 to pacs.008**  
@@ -117,7 +110,7 @@ LOS ANGELES, CA 90001
 
 ---
 
-## **2. MT202 → pacs.009 (Financial Institution Transfer) Mapping**
+# **2. MT202 → pacs.009 (Financial Institution Transfer) Mapping**
 
 ### **2.1 Mapping Table: MT202 to pacs.009**  
 
